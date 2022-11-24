@@ -1,11 +1,11 @@
 # HP-EliteBook-840-G8
-Monterey 12.4
+# Project to install Monterey 12.4
 
-Intel Serial IO		\_SB.GPI0
-Serial IO I2C		\_SB.PC00.I2C0
-I2C HID Device:		\_SB.PC00.I2C0.TPD0
-I2C HID Device:		\_SB_.PC00.I2C0.TPD0
-SMBus			      \_SB.PC00.SBUS
+# Intel Serial IO		\_SB.GPI0
+# Serial IO I2C		  \_SB.PC00.I2C0
+# I2C HID Device:		\_SB.PC00.I2C0.TPD0
+# I2C HID Device:		\_SB_.PC00.I2C0.TPD0
+# SMBus			        \_SB.PC00.SBUS
 
 I2C HID Device		ACPI\SYNA30BD\4&16460231&0
 I2C HID Device		ACPI\PNP0C50
